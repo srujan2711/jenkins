@@ -1,2 +1,2 @@
 print ("sujan")
-print ("srujan is good boy")
+print ("srujan is a good boy")
